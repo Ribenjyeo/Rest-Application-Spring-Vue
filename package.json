@@ -1,0 +1,27 @@
+{
+  "name": "Rest-Application-Spring-Vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ribenjyeo/Rest-Application-Spring-Vue.git",
+  "author": "Ribenjyeo <sheepown123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "globe": "^0.3.1",
+    "vue": "^3.2.37",
+    "vue-resource": "^1.5.3",
+    "glob": "latest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "babel-loader": "^8.2.5",
+    "components": "^0.1.0",
+    "vue-loader": "^17.0.0",
+    "vue-template-compiler": "^2.7.7",
+    "webpack": "^5.73.0",
+    "webpack-dev-server": "^4.9.3"
+  }
+}
